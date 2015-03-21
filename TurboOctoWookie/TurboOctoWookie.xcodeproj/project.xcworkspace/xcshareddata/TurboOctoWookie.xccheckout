@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FCFC9A60-8B1F-430D-B36A-1DDF47319C59</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TurboOctoWookie</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>059E237D1F7536D444CF8A6194DA5CEFEF381059</key>
+		<string>github.com:volonbolon/turbo-octo-wookie.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TurboOctoWookie/TurboOctoWookie.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>059E237D1F7536D444CF8A6194DA5CEFEF381059</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:volonbolon/turbo-octo-wookie.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>059E237D1F7536D444CF8A6194DA5CEFEF381059</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>059E237D1F7536D444CF8A6194DA5CEFEF381059</string>
+			<key>IDESourceControlWCCName</key>
+			<string>turbo-octo-wookie</string>
+		</dict>
+	</array>
+</dict>
+</plist>
