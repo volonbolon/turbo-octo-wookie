@@ -14,6 +14,8 @@
 		B0B20F4C1ABDA357002F4F5F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B0B20F4B1ABDA357002F4F5F /* Images.xcassets */; };
 		B0B20F4F1ABDA357002F4F5F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B0B20F4D1ABDA357002F4F5F /* LaunchScreen.xib */; };
 		B0B20F5B1ABDA357002F4F5F /* TurboOctoWookieTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B0B20F5A1ABDA357002F4F5F /* TurboOctoWookieTests.m */; };
+		B0B20F671ABDA6B4002F4F5F /* OverlayViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B0B20F651ABDA6B4002F4F5F /* OverlayViewController.m */; };
+		B0B20F681ABDA6B4002F4F5F /* OverlayViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = B0B20F661ABDA6B4002F4F5F /* OverlayViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +42,9 @@
 		B0B20F541ABDA357002F4F5F /* TurboOctoWookieTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TurboOctoWookieTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0B20F591ABDA357002F4F5F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B0B20F5A1ABDA357002F4F5F /* TurboOctoWookieTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TurboOctoWookieTests.m; sourceTree = "<group>"; };
+		B0B20F641ABDA6B4002F4F5F /* OverlayViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OverlayViewController.h; sourceTree = "<group>"; };
+		B0B20F651ABDA6B4002F4F5F /* OverlayViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OverlayViewController.m; sourceTree = "<group>"; };
+		B0B20F661ABDA6B4002F4F5F /* OverlayViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = OverlayViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +94,9 @@
 				B0B20F4B1ABDA357002F4F5F /* Images.xcassets */,
 				B0B20F4D1ABDA357002F4F5F /* LaunchScreen.xib */,
 				B0B20F3E1ABDA357002F4F5F /* Supporting Files */,
+				B0B20F641ABDA6B4002F4F5F /* OverlayViewController.h */,
+				B0B20F651ABDA6B4002F4F5F /* OverlayViewController.m */,
+				B0B20F661ABDA6B4002F4F5F /* OverlayViewController.xib */,
 			);
 			path = TurboOctoWookie;
 			sourceTree = "<group>";
@@ -202,6 +210,7 @@
 				B0B20F4A1ABDA357002F4F5F /* Main.storyboard in Resources */,
 				B0B20F4F1ABDA357002F4F5F /* LaunchScreen.xib in Resources */,
 				B0B20F4C1ABDA357002F4F5F /* Images.xcassets in Resources */,
+				B0B20F681ABDA6B4002F4F5F /* OverlayViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -222,6 +231,7 @@
 				B0B20F471ABDA357002F4F5F /* ViewController.m in Sources */,
 				B0B20F441ABDA357002F4F5F /* AppDelegate.m in Sources */,
 				B0B20F411ABDA357002F4F5F /* main.m in Sources */,
+				B0B20F671ABDA6B4002F4F5F /* OverlayViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
